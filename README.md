@@ -5,8 +5,6 @@ A dark minimal-esque blog theme for [Hugo](https://gohugo.io).
 - Fully responsive
 - Includes [Simply Navigation](https://github.com/obscuredetour/simply-nav), a dead simple lightweight navigation for all devices built with Flexbox and vanilla JS. [Demo simply navigation](https://obscuredetour.github.io/simply-nav/)
 
-View the theme on my [blog](https://blog.jeffreysummers.me).
-
 This theme was created using the [Minimal](https://github.com/calintat/minimal) blog theme as a boilerplate and was inspired by the Ghost [Casper](https://github.com/TryGhost/Casper) theme.
 
 
